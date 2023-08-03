@@ -1,0 +1,85 @@
+﻿@page "/"
+@page "/PainelCafeteira"
+@inherits PainelCafeteirabase
+
+
+<h3>PainelCafeteira</h3>
+
+<div class="container">
+    <div class="row">
+        <div class="col-3">
+            <img src="img/Moeda_1_centavoSemFundo.png" @onclick="@(()=>InserirMoeda(0.01m))" />
+        </div>
+        <div class="col-3">
+            <img src="img/Moeda_5_CentavosSemFundo.png" @onclick="@(()=>InserirMoeda(0.05m))" />
+        </div>
+
+        <div class="col-3">
+            <img src="img/Moeda_10_CentavosSemFundo.png" @onclick="@(()=>InserirMoeda(0.10m))" />
+        </div>
+
+        <div class="col-3">
+            <img src="img/Moeda_25_CentavosSemFundo.png" @onclick="@(()=>InserirMoeda(0.25m))" />
+        </div>
+
+        <div class="col-3">
+            <img src="img/Moedade_50_centavosSemFundo.png" @onclick="@(()=>InserirMoeda(0.50m))" />
+        </div>
+
+        <div class="col-3">
+            <img src="img/Moeda_1_REALSemFundo.png" @onclick="@(()=>InserirMoeda(1m))" />
+        </div>
+
+    </div>
+</div>
+
+
+<div class="container-bg">
+    <div class="container01">
+        <div class="row">
+            <!-- Primeira coluna -->
+            <div class="col-md-8 col-custom">
+                @foreach (var item in ProdutosDisponiveis.Take(ProdutosDisponiveis.Count()))
+                {
+                    <button @onclick="@(()=> ComprarProduto(item.Id))" class="btn btn-black custom-button">@item.Descricao @item.Valor.ToString("C2")</button>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="container-02">
+        <div class="row">
+            <div class="col-6">
+                <label class="lblVisor">@Letreiro</label>
+            </div>
+        </div>
+    </div>
+
+    @if (ExibirPreparoProduto)
+    {
+        <div class="container-03">
+            <div class="container-PreparoProduto">
+            </div>
+        </div>
+    }
+    @if (ExibirTrocoCompra)
+    {
+        <div class="container-04">
+            <div class="troco-Container">
+            </div>
+        </div>
+    }
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,148 @@
+img[b-vpv6uzz7a0] {
+    width: 100px;    
+}
+
+img:hover[b-vpv6uzz7a0]{
+    width: 110px;
+    height:auto;
+    transition: 0.2s;
+}
+
+.col-3[b-vpv6uzz7a0] {    
+    width:120px;
+    text-align: center;    
+}
+
+
+
+/* Opcional: Estilo para o contêiner com a imagem de fundo */
+.container-bg[b-vpv6uzz7a0] {
+    background-image: url(img/maquinaSemPainelSemFundoComFicheiro.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 1200px;
+    width: 800px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Opcional: Estilo para as colunas */
+.col-custom[b-vpv6uzz7a0] {
+    text-align: center;
+}
+
+/* Opcional: Estilo para os botões */
+.custom-button[b-vpv6uzz7a0] {
+    margin: 6px;    
+    width:100%;
+    text-align:left;
+}
+
+
+.btn-black[b-vpv6uzz7a0]{
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+}
+
+.btn-black:hover[b-vpv6uzz7a0] {
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+    background-color: darkgray;
+}
+
+.container01[b-vpv6uzz7a0] {
+    position: relative;
+    width: 390px;
+    /*border: 1px solid orange;*/
+    padding: 5px;
+    margin-bottom: 200px;
+}
+
+
+.container-02[b-vpv6uzz7a0]{
+position: absolute;
+    top: 220px;
+    left: 282px;
+    width: 236px;
+    height: 108px;
+    background-color: silver;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.lblVisor[b-vpv6uzz7a0]{
+    color:firebrick;
+    font-size:15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    width:220px;
+    border:2px solid white;
+    padding:12px;
+    text-align:left;
+}
+
+.container-03[b-vpv6uzz7a0] {
+    position: absolute;
+    top: 835px;
+    left: 282px;
+    width: 236px;
+    height: 108px;    
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-PreparoProduto[b-vpv6uzz7a0] {
+    background-image: url(img/PodutoEmPreparo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 150px;
+    width: 150px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.container-04[b-vpv6uzz7a0] {
+    position: absolute;
+    top: 560px;
+    left: 230px;
+    width: 236px;
+    height: 108px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.troco-Container[b-vpv6uzz7a0] {
+    background-image: url(img/troco.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 150px;
+    width: 150px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

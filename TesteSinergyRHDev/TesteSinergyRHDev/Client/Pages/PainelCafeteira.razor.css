@@ -1,0 +1,148 @@
+﻿img {
+    width: 100px;    
+}
+
+img:hover{
+    width: 110px;
+    height:auto;
+    transition: 0.2s;
+}
+
+.col-3 {    
+    width:120px;
+    text-align: center;    
+}
+
+
+
+/* Opcional: Estilo para o contêiner com a imagem de fundo */
+.container-bg {
+    background-image: url(img/maquinaSemPainelSemFundoComFicheiro.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 1200px;
+    width: 800px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Opcional: Estilo para as colunas */
+.col-custom {
+    text-align: center;
+}
+
+/* Opcional: Estilo para os botões */
+.custom-button {
+    margin: 6px;    
+    width:100%;
+    text-align:left;
+}
+
+
+.btn-black{
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+}
+
+.btn-black:hover {
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+    background-color: darkgray;
+}
+
+.container01 {
+    position: relative;
+    width: 390px;
+    /*border: 1px solid orange;*/
+    padding: 5px;
+    margin-bottom: 200px;
+}
+
+
+.container-02{
+position: absolute;
+    top: 220px;
+    left: 282px;
+    width: 236px;
+    height: 108px;
+    background-color: silver;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.lblVisor{
+    color:firebrick;
+    font-size:15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    width:220px;
+    border:2px solid white;
+    padding:12px;
+    text-align:left;
+}
+
+.container-03 {
+    position: absolute;
+    top: 835px;
+    left: 282px;
+    width: 236px;
+    height: 108px;    
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-PreparoProduto {
+    background-image: url(img/PodutoEmPreparo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 150px;
+    width: 150px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.container-04 {
+    position: absolute;
+    top: 560px;
+    left: 230px;
+    width: 236px;
+    height: 108px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.troco-Container {
+    background-image: url(img/troco.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 150px;
+    width: 150px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

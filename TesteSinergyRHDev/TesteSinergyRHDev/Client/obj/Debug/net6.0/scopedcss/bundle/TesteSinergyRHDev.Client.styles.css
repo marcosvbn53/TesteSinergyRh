@@ -1,0 +1,312 @@
+/* /Pages/Index.razor.rz.scp.css */
+/* Estilos personalizados para o contêiner e a imagem */
+.container[b-cevidxnwfk] {
+    position: relative;
+    width: 500px; /* Defina o tamanho desejado para a imagem */
+}
+
+.img-overlay[b-cevidxnwfk] {
+    width: 100%;
+}
+
+/* Estilos personalizados para o botão */
+.btn-overlay[b-cevidxnwfk] {
+    position: absolute;
+    top: 300px;
+    left: 180px;
+    transform: translate(-50%, -50%);
+}
+/* /Pages/PainelCafeteira.razor.rz.scp.css */
+img[b-vpv6uzz7a0] {
+    width: 100px;    
+}
+
+img:hover[b-vpv6uzz7a0]{
+    width: 110px;
+    height:auto;
+    transition: 0.2s;
+}
+
+.col-3[b-vpv6uzz7a0] {    
+    width:120px;
+    text-align: center;    
+}
+
+
+
+/* Opcional: Estilo para o contêiner com a imagem de fundo */
+.container-bg[b-vpv6uzz7a0] {
+    background-image: url(img/maquinaSemPainelSemFundoComFicheiro.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 1200px;
+    width: 800px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Opcional: Estilo para as colunas */
+.col-custom[b-vpv6uzz7a0] {
+    text-align: center;
+}
+
+/* Opcional: Estilo para os botões */
+.custom-button[b-vpv6uzz7a0] {
+    margin: 6px;    
+    width:100%;
+    text-align:left;
+}
+
+
+.btn-black[b-vpv6uzz7a0]{
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+}
+
+.btn-black:hover[b-vpv6uzz7a0] {
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+    background-color: darkgray;
+}
+
+.container01[b-vpv6uzz7a0] {
+    position: relative;
+    width: 390px;
+    /*border: 1px solid orange;*/
+    padding: 5px;
+    margin-bottom: 200px;
+}
+
+
+.container-02[b-vpv6uzz7a0]{
+position: absolute;
+    top: 220px;
+    left: 282px;
+    width: 236px;
+    height: 108px;
+    background-color: silver;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.lblVisor[b-vpv6uzz7a0]{
+    color:firebrick;
+    font-size:15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    width:220px;
+    border:2px solid white;
+    padding:12px;
+    text-align:left;
+}
+
+.container-03[b-vpv6uzz7a0] {
+    position: absolute;
+    top: 835px;
+    left: 282px;
+    width: 236px;
+    height: 108px;    
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-PreparoProduto[b-vpv6uzz7a0] {
+    background-image: url(img/PodutoEmPreparo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 150px;
+    width: 150px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.container-04[b-vpv6uzz7a0] {
+    position: absolute;
+    top: 560px;
+    left: 230px;
+    width: 236px;
+    height: 108px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.troco-Container[b-vpv6uzz7a0] {
+    background-image: url(img/troco.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*height: 100vh;*/
+    height: 150px;
+    width: 150px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-sho4a37c24] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-sho4a37c24] {
+    flex: 1;
+}
+
+.sidebar[b-sho4a37c24] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-sho4a37c24] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-sho4a37c24]  a, .top-row[b-sho4a37c24]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-sho4a37c24]  a:hover, .top-row[b-sho4a37c24]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-sho4a37c24]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-sho4a37c24] {
+        display: none;
+    }
+
+    .top-row.auth[b-sho4a37c24] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-sho4a37c24]  a, .top-row[b-sho4a37c24]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-sho4a37c24] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-sho4a37c24] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-sho4a37c24] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-sho4a37c24]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-sho4a37c24], article[b-sho4a37c24] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-istqd3wigk] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-istqd3wigk] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-istqd3wigk] {
+    font-size: 1.1rem;
+}
+
+.oi[b-istqd3wigk] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-istqd3wigk] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-istqd3wigk] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-istqd3wigk] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-istqd3wigk]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-istqd3wigk]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-istqd3wigk]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-istqd3wigk] {
+        display: none;
+    }
+
+    .collapse[b-istqd3wigk] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

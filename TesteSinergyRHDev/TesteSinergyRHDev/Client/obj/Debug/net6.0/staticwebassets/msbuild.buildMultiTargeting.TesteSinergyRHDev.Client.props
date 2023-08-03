@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TesteSinergyRHDev.Client.props" />
+</Project>

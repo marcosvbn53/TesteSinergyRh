@@ -1,0 +1,12 @@
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\bin\Debug\net6.0\TesteSinergyRHDev.Shared.deps.json
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\bin\Debug\net6.0\TesteSinergyRHDev.Shared.dll
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\bin\Debug\net6.0\TesteSinergyRHDev.Shared.pdb
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.csproj.AssemblyReference.cache
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.AssemblyInfoInputs.cache
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.AssemblyInfo.cs
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.csproj.CoreCompileInputs.cache
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.dll
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\refint\TesteSinergyRHDev.Shared.dll
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\TesteSinergyRHDev.Shared.pdb
+D:\DesenvolvimentoHome\TesteSinergyRH\TesteSinergyRh\TesteSinergyRHDev\TesteSinergyRHDev\Shared\obj\Debug\net6.0\ref\TesteSinergyRHDev.Shared.dll

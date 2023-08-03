@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\obj\\Debug\\net6.0\\build-gz\\5gFB+fir.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TesteSinergyRHDev.Client.styles.css",
+      "PackagePath": "staticwebassets\\TesteSinergyRHDev.Client.styles.css"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Exemplo de produtos da cafeteira.png",
+      "PackagePath": "staticwebassets\\img\\Exemplo de produtos da cafeteira.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\ItemMenu.png",
+      "PackagePath": "staticwebassets\\img\\ItemMenu.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Moeda_10_CentavosSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\Moeda_10_CentavosSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Moeda_1_REALSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\Moeda_1_REALSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Moeda_1_centavoSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\Moeda_1_centavoSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Moeda_25_CentavosSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\Moeda_25_CentavosSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Moeda_5_CentavosSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\Moeda_5_CentavosSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\Moedade_50_centavosSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\Moedade_50_centavosSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\OrificioFicha.png",
+      "PackagePath": "staticwebassets\\img\\OrificioFicha.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\OrificioFicha_pequeno.png",
+      "PackagePath": "staticwebassets\\img\\OrificioFicha_pequeno.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\PodutoEmPreparo.png",
+      "PackagePath": "staticwebassets\\img\\PodutoEmPreparo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\maquinaSemPainel1.png",
+      "PackagePath": "staticwebassets\\img\\maquinaSemPainel1.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\maquinaSemPainelSemFundo.png",
+      "PackagePath": "staticwebassets\\img\\maquinaSemPainelSemFundo.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\maquinaSemPainelSemFundoComFicheiro.png",
+      "PackagePath": "staticwebassets\\img\\maquinaSemPainelSemFundoComFicheiro.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\img\\troco.png",
+      "PackagePath": "staticwebassets\\img\\troco.png"
+    },
+    {
+      "Id": "D:\\DesenvolvimentoHome\\TesteSinergyRH\\TesteSinergyRh\\TesteSinergyRHDev\\TesteSinergyRHDev\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TesteSinergyRHDev.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TesteSinergyRHDev.Client.props",
+      "PackagePath": "build\\TesteSinergyRHDev.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TesteSinergyRHDev.Client.props",
+      "PackagePath": "buildMultiTargeting\\TesteSinergyRHDev.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TesteSinergyRHDev.Client.props",
+      "PackagePath": "buildTransitive\\TesteSinergyRHDev.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
